@@ -52,3 +52,5 @@ the result of the command `Python calculator.py` will be:
 ```text
 6561
 ```
+### Summary
+This function `main()` makes a certain python file usable both as a script and as a import module.
