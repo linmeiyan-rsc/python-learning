@@ -48,7 +48,7 @@ def exponential(x,n = 2):
 if __name__ == "__main__":
     main()
 ```
-the result of "Python calculator.py" will be:
+the result of the command `Python calculator.py` will be:
 ```text
 6561
 ```
