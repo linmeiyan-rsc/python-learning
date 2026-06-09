@@ -32,7 +32,7 @@ The result would be:
 ```
 that shows that when we import functions from other files, that means python will first execute the top-level code of the original python file , then execute current file. 
 `main()` is on the top-level. When we execute `calculator.py`, Python also runs the code `main()`
-so if we want to import functions from other files, we can just add in the original file:
+so if we want to import functions from other files, we can just add the followings in the original file to avoid that problems:
 ```Python
 if __name__ == "__main__":
     main()
