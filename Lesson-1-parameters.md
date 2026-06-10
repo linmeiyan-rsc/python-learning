@@ -4,7 +4,7 @@
 print(*object, sep=' ', end="n\")
 "sep", "end" are called named parameters
 
-## function of main 
+## purpose of function `main()` 
 Something different happens when we import a function from another file.
 This is a python file called `hello.py`
 ```Python
